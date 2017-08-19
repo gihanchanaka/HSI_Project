@@ -11,36 +11,5 @@ What is "Expert Miner"?
 Expert Miner is a software program which uses Hyper Spectral Image analysis to pinpoint the natural earth reources in Sri Lanka.
 
 Why is "Expert Miner" useful?
-@Suren, fill this in a word document
+Since mining is a capital intensive process developing countries such as SriLanka find it hard to reach local investors. The reason being, the traditional methods used for exploration such as geological method has a low success rate, and when it fails, most of the costs are identified as losses. Expert miner assists in increasing the success rate and gives a significant assurance regarding the existance of a mineral.
 
-
-Target users?
-The mineral mining companies
-Oil mining companies
-Government
-
-Similar products and competition?
-@Suren
-
-Technologies and resources?
-Hyper spectral image data of Sri Lanka from Nasa Sattelites (avaliable for free)
-Hyper spectral spectrums of minerals from universities (avaliable for free)
-Numerical computing packages- MATLAB, Python (Numpy, Scipy, Matplotlib)
-University of Peradeniya servers (http://www.tesla.ce.pdn.ac.lk/)
-
-
-
-
-Acknowledgements:
-
-Research group of Department of Electrical and Electronic Engineering:
-Sajani Pallegodavithana
-Ruwanthi
-Shane orloff
-Dr. Vijitha Herath
-Dr. Roshan Godaliyadda
-Dr. Parakrama Ekanayeka
-
-Previous Hackathon team:
-Pankayaraj Pathmanathan
-Gayan Thejawansha
