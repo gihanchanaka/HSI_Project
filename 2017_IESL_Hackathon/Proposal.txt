@@ -13,7 +13,7 @@ Expert Miner is a software program which uses Hyper Spectral Image analysis to p
 Why is "Expert Miner" useful?
 Since mining is a capital intensive process developing countries such as SriLanka find it hard to reach local investors. The reason being, the traditional methods used for exploration such as geological method has a low success rate, and when it fails, most of the costs are identified as losses. Expert miner assists in increasing the success rate and gives a significant assurance regarding the existance of a mineral.
 
-<<<<<<< HEAD
+
 
 Target users?
 The mineral mining companies
@@ -30,8 +30,10 @@ Numerical computing packages- MATLAB, Python (Numpy, Scipy, Matplotlib)
 University of Peradeniya servers (http://www.tesla.ce.pdn.ac.lk/)
 
 Revenue Model?
-Selling the software to mining s.
-Consultation for mining cooperations.
+Selling the software to mining corporations.
+Consultation services for mining corporations.
+
+
 
 
 Acknowledgements:
@@ -43,9 +45,6 @@ Shane orloff
 Dr. Vijitha Herath
 Dr. Roshan Godaliyadda
 Dr. Parakrama Ekanayeka
-
 Previous Hackathon team:
 Pankayaraj Pathmanathan
 Gayan Thejawansha
-=======
->>>>>>> a7732ce762b4af717508ad3fcf6c69fc63460e4c
