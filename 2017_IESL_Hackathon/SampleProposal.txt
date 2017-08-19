@@ -1,0 +1,202 @@
+﻿Proposal Yarl Geek Challenge Season 5
+
+
+Team Name: SWS_Pera (Smile With Smells)
+
+
+Lead
+	Ukwattage U.A.I
+	anjeldethwings@gmail.com
+	0775455047
+	Member 1
+	Tharuka Jayalath
+	tharukaboss@gmail.com 
+	0775724045
+	Member 2
+	Hendawitharana A.D
+	hendawitharana.a.d@gmail.com 
+	0713844722
+	Member 3
+	Manamgoda M.G.T.R
+	maanafunedu@gmail.com
+	0770445855
+	Member 4
+	Wanigasekara W.A.P.E
+	prageetheranga@gmail.com
+	0714382403
+	
+
+Mentor Details  : 
+
+
+Titus Nanda Kumara.
+Instructor, Computer Engineering, University of Peradeniya
+0711028075
+titus.nandakumara@gmail.com 
+
+
+Overview of SWS
+
+
+What is a SWS? 
+
+
+It’s not just a perfume. SWS is a next generation perfume which is not frame into one smell. It’s a collection of perfumes which gives you an ability to change the fragrance of you within just one click. SWS is a wearable device and we are planning to embed it with a belt. Because of that the people who are fashionate can wear it without any trouble. At present, most of the people have smartphones so people will like this product because it’s very simple and easy to use. SWS will be a good solution for people who are busy with their lifestyle.
+
+
+Detailed description of the product
+
+
+Most of us like to use perfume as a fashion in our lifestyle. It’s hard to find someone who doesn't use  perfumes these days. Most of our youth is addicted to theses kind of things now a days. It’s not only our youth we all like to wear various fashions and match them with the perfumes, our shoes, our watches, etc. The problem is normally smell of a perfume lasts no longer than 3 hours. So most of the people has this habit to bring small perfume with them wherever they go.
+        As a solution for this matter we are proposing a wearable device which can use as your perfume. It’s kind of an electronic device which you wear easily with your clothes. As a prototype we are planning to embedded this system with a belt. Without a doubt we all wear belts so it will not be a any problem.
+        What we proposing here is not just a perfume because this device is very customizable. You can use your smart phone to change the settings with the device. You can change the smell in your device as you wish. But there will be a limitation with smells because the chemicals should be added to the device before use. Apart from that users can change the dilution levels of the device. Users have their ability to change the smell of the device according to the occasion. It’s only just one click to change the smell of your perfume.
+
+
+
+
+
+
+
+
+
+
+
+
+Target Users
+
+
+We are not targeting particular crowd, but it can be used by anyone and it is an open usable device. The cost of the product will be very reasonable for a local customers in the Sri lanka. Specially, the people who are using perfumes can use this product.
+
+
+
+
+Similar Products and the unique features
+
+
+There are no any similar product in market. As the unique feature of our product we can introduce, can produce
+
+
+* SWS is a wearable device, which is very easy to use people with their regular lifestyle. 
+* Multiple fragrances according to the user’s preference.
+* SWS keep you fresh in all the day. (It will keep the level of odour as constant).
+* Users can change the dilution levels according to the their preference.
+
+
+
+
+Technologies and tools
+
+
+For the prototype, we are planning to use arduino nano board for the processing needs. The communication part of the device will use bluetooth and client application will be implementing the application in Android. There will be a gas sensor to control the dilution levels. Apart from that hardware level programming will be done by the Arduino C.
+
+
+Further descriptions for the Reviewers
+
+
+How will you manage the different smells? Practical implementation and technical approach ?
+
+
+As the prototype product we are planning on to use some pieces of paper which is saturated with perfume.Some thing like handkerchief tissue then we can heat up that unit and control the smell with a gas sensor.Two different PID controller will control the gas intensity and the temperature in the units. This temperature will be few celsius and it will not noticeable the user because we are going to isolate (from transferring the temperature) the unit then there will not be any problems. There will be two or three units in our prototype.We can control the those units and generate the different smells. In the future we are going to try to store some basic components in the belt and control the smell. Because there are some main components in the perfumes which we can control. So we can generate many smells.
+
+
+Arduino nano boards will use in the PID controller to control the parameters in the belt. Common bluetooth communication will use in the Android app and the belt and only one user can control the device. Android app can use easily and we will make sure it will be very simple and interesting one. There will be on off switch in the belt and device will power up with rechargeable li-ion battery. Our estimation is two or three days for the battery life. Normal USB charger can charge the belt with 5V.
+
+
+specific marketing strategies to reach the target users 
+
+1. There are different types of hip belts.
+
+2. If manufacturers want our product for their belts,we can embedded it.
+   So,the people who like different kinds of belts can buy this.
+
+3. Perfume producers also can request our product to add their perfumes.
+   so,if anyone have a special interest about a specific perfume,they can use 
+   this product.
+
+Reasons for people to buy this wearable?
+
+1. Best choice for busy life. If you forget to use perfumes when you go out,
+   this is the solution.
+
+2. Simple and easy to use.
+
+3. You can change the fragrance any time,any place without any difficulty.
+
+
+How will you be generating the revenue? What will be the unit price of the product?
+
+
+The main market point is selling the devices and make the revenue. Our expectation is to sell this device into the local market.Unit price of the product will be nearly Rs. 3000/= .
+
+
+Will you be able to develop & complete the wearable device by the 6th November? If you can't build the full system what features will you have in your Minimum viable product that you will show on 6th of November?
+
+
+We can show complete the product with three or four different smells. 
+
+
+
+
+What is your business model? How will be sustain your startup and your product? 
+
+
+business model
+
+
+SWS is a new business model for the country like Sri Lanka which is rapidly growing in recent time. Because in Sri Lanka we can see small to large scale corporate and personal companies which are stepping into the computer related product . We can cooperate with those companies  who have capability to make the device in more reasonable price ( Something like Lakduino ). 
+
+
+We have identified the gap between the this kind of a product suppliers and their users. Most of the time people don’t go for a this kind of products because they are very expensive in current market. Until now, no one have fulfilled that requirement because all of such products are not manufacturing in the Sri lanka. We can solve this issue in the local market by manufacturing this product in the Sri lanka.
+
+
+Meantime we are focusing on medium and large scale apparel companies in Sri Lanka who are interested on providing a this kind of a wearable devices with their new products.
+
+
+Objectives
+
+
+The main objectives of first few operation years includes
+* Corporate with local companies who can provide low cost materials and the component for the product.Then we can sell the product within more reasonable price.
+* Give our service for the local apparel companies who are interested on SWS. 
+* To develop sustainable, profitable start up business within next two years
+* To increase the  internet users who are interested on wearable hardware products.
+Mission
+
+
+The mission of this business is to create a wearable devices (SWS) which can attract people who are willing to go with next generation in the local market. 
+
+
+Vision
+
+
+Be a market leader in wearable hardware product manufacture in the Sri lanka.
+
+
+Customer profile and Stakeholders
+
+
+Our customers are basically 2 types.
+
+
+* Apparel companies who are interested on our SWS to sell with their products.
+
+
+* Local users.
+
+
+Financial Summary
+
+
+The financial forecast for SWS is as follows. The Initial cost Includes
+· Hardware manufacturing cost.
+· Software development cost.  
+· Legal fees 
+· Advertising costs
+
+
+Plan for promoting and publication
+
+
+* Initially we thought of meet our stakeholders, explain about our product and get them interested on our device. 
+* Then by using brochures and paper advertisements promote the product.  
+* We will participate for innovation exhibitions and there we would meet our stakeholders directly and get some feedback.
