@@ -28,7 +28,9 @@ Hyper spectral spectrums of minerals from universities (avaliable for free)
 Numerical computing packages- MATLAB, Python (Numpy, Scipy, Matplotlib)
 University of Peradeniya servers (http://www.tesla.ce.pdn.ac.lk/)
 
-
+Revenue Model?
+Selling the software to mining s.
+Consultation for mining cooperations.
 
 
 Acknowledgements:
