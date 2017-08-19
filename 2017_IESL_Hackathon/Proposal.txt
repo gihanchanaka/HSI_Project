@@ -49,6 +49,18 @@ Revenue Model?
 Selling the software to mining corporations.
 Consultation services for mining corporations.
 
+Marketing stratergy
+As the early birds into this field, Expert Miner would be able to capture a significant portion of the market.
+Since HSI is a relatively new technique, due to the lower competition we could achieve economies of scale at a much faster rate.
+
+Customer perspective
+Mining is a risky business, thus the ivestor confidence is low. This is due to the higher failure rates at the initial stage. Expert Miner icreases the investor confidence by giving a significant assurance even before starting a project.
+
+Feasibility
+The costs incurred are low (or none) since all the tools and data are available freely.
+The product would be highly seeked by the industry since it solves one of their major problems and the benifits outweigh costs vastly.
+Thus the product is feasible in every way.
+
 Acknowledgements:
 
 Research group of Department of Electrical and Electronic Engineering:
