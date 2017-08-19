@@ -7,6 +7,10 @@ Team:
 What is Hyper Spectral Imagery?
 @Hasrhana fill this
 
+What is "Expert Miner"?
+Expert Miner is a software program which uses Hyper Spectral Image analysis to pinpoint the natural earth reources in Sri Lanka.
 
+Why is "Expert Miner" useful?
+@Suren, fill this in a word document
 
 
