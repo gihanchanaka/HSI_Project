@@ -3,8 +3,12 @@ Proposal for IESL Day Hackathon 2017
 Team Name: biteCode
 
 Team:
+Gihan Chanaka Jayatilaka gihanchanaka@gmail.com
+Harshana Sumedha Weligampola uwillfindharshana@gmail.com
+Suren Sritharan suren3141@gmail.com
 
 What is Hyper Spectral Imagery?
+
 Hyperspectral imaging, like other spectral imaging, collects and processes information from across the electromagnetic spectrum.
 Whereas the human eye sees color of visible light in mostly three bands (red, green, and blue), spectral imaging divides the spectrum into many more bands. This technique of dividing images into bands can be extended beyond the visible. In hyperspectral imaging, the recorded spectra have fine wavelength resolution and cover a wide range of wavelengths.
 Hyperspectral sensors and processing systems are used for applications in astronomy, agriculture, biomedical imaging, geosciences, physics, and surveillance.
@@ -22,7 +26,8 @@ Oil mining companies
 Government
 
 Similar products and competition?
-@Suren
+There are no simillar product at the moment since HSI is a relatively new technique.
+The alternatives are the traditional geological and geochemical processes which are risky and costly(Since expedtition may fail). Expert miner reduces the risk involved in expedition.
 
 Technologies and resources?
 Hyper spectral image data of Sri Lanka from Nasa Sattelites (avaliable for free)
@@ -31,9 +36,8 @@ Numerical computing packages- MATLAB, Python (Numpy, Scipy, Matplotlib)
 University of Peradeniya servers (http://www.tesla.ce.pdn.ac.lk/)
 
 Revenue Model?
-Selling the software to mining s.
-Consultation for mining cooperations.
-
+Selling the software to mining corporations.
+Consultation services for mining corporations.
 
 Acknowledgements:
 
@@ -44,9 +48,6 @@ Shane orloff
 Dr. Vijitha Herath
 Dr. Roshan Godaliyadda
 Dr. Parakrama Ekanayeka
-
 Previous Hackathon team:
 Pankayaraj Pathmanathan
 Gayan Thejawansha
-=======
->>>>>>> a7732ce762b4af717508ad3fcf6c69fc63460e4c
