@@ -21,7 +21,8 @@ Oil mining companies
 Government
 
 Similar products and competition?
-@Suren
+There are no simillar product at the moment since HSI is a relatively new technique.
+The alternatives are the traditional geological and geochemical processes which are risky and costly(Since expedtition may fail). Expert miner reduces the risk involved in expedition.
 
 Technologies and resources?
 Hyper spectral image data of Sri Lanka from Nasa Sattelites (avaliable for free)
