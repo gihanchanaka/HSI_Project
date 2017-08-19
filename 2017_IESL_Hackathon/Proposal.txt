@@ -3,6 +3,9 @@ Proposal for IESL Day Hackathon 2017
 Team Name: biteCode
 
 Team:
+Gihan Chanaka Jayatilaka gihanchanaka@gmail.com
+Harshana Sumedha Weligampola uwillfindharshana@gmail.com
+Suren Sritharan suren3141@gmail.com
 
 What is Hyper Spectral Imagery?
 @Hasrhana fill this
@@ -12,8 +15,6 @@ Expert Miner is a software program which uses Hyper Spectral Image analysis to p
 
 Why is "Expert Miner" useful?
 Since mining is a capital intensive process developing countries such as SriLanka find it hard to reach local investors. The reason being, the traditional methods used for exploration such as geological method has a low success rate, and when it fails, most of the costs are identified as losses. Expert miner assists in increasing the success rate and gives a significant assurance regarding the existance of a mineral.
-
-
 
 Target users?
 The mineral mining companies
@@ -33,9 +34,6 @@ University of Peradeniya servers (http://www.tesla.ce.pdn.ac.lk/)
 Revenue Model?
 Selling the software to mining corporations.
 Consultation services for mining corporations.
-
-
-
 
 Acknowledgements:
 
