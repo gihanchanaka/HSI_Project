@@ -5,9 +5,48 @@ Team Name: biteCode
 Team:
 
 What is Hyper Spectral Imagery?
-
 Hyperspectral imaging, like other spectral imaging, collects and processes information from across the electromagnetic spectrum.
 Whereas the human eye sees color of visible light in mostly three bands (red, green, and blue), spectral imaging divides the spectrum into many more bands. This technique of dividing images into bands can be extended beyond the visible. In hyperspectral imaging, the recorded spectra have fine wavelength resolution and cover a wide range of wavelengths.
 Hyperspectral sensors and processing systems are used for applications in astronomy, agriculture, biomedical imaging, geosciences, physics, and surveillance.
 Certain objects leave unique 'fingerprints' in the electromagnetic spectrum. Known as spectral signatures, these 'fingerprints' enable identification of the materials that make up a scanned object. 
 
+What is "Expert Miner"?
+Expert Miner is a software program which uses Hyper Spectral Image analysis to pinpoint the natural earth reources in Sri Lanka.
+
+Why is "Expert Miner" useful?
+Since mining is a capital intensive process developing countries such as SriLanka find it hard to reach local investors. The reason being, the traditional methods used for exploration such as geological method has a low success rate, and when it fails, most of the costs are identified as losses. Expert miner assists in increasing the success rate and gives a significant assurance regarding the existance of a mineral.
+
+Target users?
+The mineral mining companies
+Oil mining companies
+Government
+
+Similar products and competition?
+@Suren
+
+Technologies and resources?
+Hyper spectral image data of Sri Lanka from Nasa Sattelites (avaliable for free)
+Hyper spectral spectrums of minerals from universities (avaliable for free)
+Numerical computing packages- MATLAB, Python (Numpy, Scipy, Matplotlib)
+University of Peradeniya servers (http://www.tesla.ce.pdn.ac.lk/)
+
+Revenue Model?
+Selling the software to mining s.
+Consultation for mining cooperations.
+
+
+Acknowledgements:
+
+Research group of Department of Electrical and Electronic Engineering:
+Sajani Pallegodavithana
+Ruwanthi
+Shane orloff
+Dr. Vijitha Herath
+Dr. Roshan Godaliyadda
+Dr. Parakrama Ekanayeka
+
+Previous Hackathon team:
+Pankayaraj Pathmanathan
+Gayan Thejawansha
+=======
+>>>>>>> a7732ce762b4af717508ad3fcf6c69fc63460e4c
