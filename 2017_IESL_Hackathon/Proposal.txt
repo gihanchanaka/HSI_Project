@@ -14,3 +14,33 @@ Why is "Expert Miner" useful?
 @Suren, fill this in a word document
 
 
+Target users?
+The mineral mining companies
+Oil mining companies
+Government
+
+Similar products and competition?
+@Suren
+
+Technologies and resources?
+Hyper spectral image data of Sri Lanka from Nasa Sattelites (avaliable for free)
+Hyper spectral spectrums of minerals from universities (avaliable for free)
+Numerical computing packages- MATLAB, Python (Numpy, Scipy, Matplotlib)
+University of Peradeniya servers (http://www.tesla.ce.pdn.ac.lk/)
+
+
+
+
+Acknowledgements:
+
+Research group of Department of Electrical and Electronic Engineering:
+Sajani Pallegodavithana
+Ruwanthi
+Shane orloff
+Dr. Vijitha Herath
+Dr. Roshan Godaliyadda
+Dr. Parakrama Ekanayeka
+
+Previous Hackathon team:
+Pankayaraj Pathmanathan
+Gayan Thejawansha
