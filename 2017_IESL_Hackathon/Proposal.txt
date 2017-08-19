@@ -14,7 +14,6 @@ Whereas the human eye sees color of visible light in mostly three bands (red, gr
 Hyperspectral sensors and processing systems are used for applications in astronomy, agriculture, biomedical imaging, geosciences, physics, and surveillance.
 Certain objects leave unique 'fingerprints' in the electromagnetic spectrum. Known as spectral signatures, these 'fingerprints' enable identification of the materials that make up a scanned object. 
 
-
 What is "Expert Miner"?
 Expert Miner is a software program which uses Hyper Spectral Image analysis to pinpoint the natural earth reources in Sri Lanka.
 
