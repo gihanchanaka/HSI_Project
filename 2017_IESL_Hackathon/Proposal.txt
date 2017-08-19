@@ -3,6 +3,9 @@ Proposal for IESL Day Hackathon 2017
 Team Name: biteCode
 
 Team:
+Gihan Chanaka Jayatilaka gihanchanaka@gmail.com
+Harshana Sumedha Weligampola uwillfindharshana@gmail.com
+Suren Sritharan suren3141@gmail.com
 
 What is Hyper Spectral Imagery?
 
@@ -11,3 +14,50 @@ Whereas the human eye sees color of visible light in mostly three bands (red, gr
 Hyperspectral sensors and processing systems are used for applications in astronomy, agriculture, biomedical imaging, geosciences, physics, and surveillance.
 Certain objects leave unique 'fingerprints' in the electromagnetic spectrum. Known as spectral signatures, these 'fingerprints' enable identification of the materials that make up a scanned object. 
 
+
+What is "Expert Miner"?
+Expert Miner is a software program which uses Hyper Spectral Image analysis to pinpoint the natural earth reources in Sri Lanka.
+
+Why is "Expert Miner" useful?
+Since mining is a capital intensive process developing countries such as SriLanka find it hard to reach local investors. The reason being, the traditional methods used for exploration such as geological method has a low success rate, and when it fails, most of the costs are identified as losses. Expert miner assists in increasing the success rate and gives a significant assurance regarding the existance of a mineral.
+
+<<<<<<< HEAD
+=======
+Hyperspectral imaging, like other spectral imaging, collects and processes information from across the electromagnetic spectrum.
+Whereas the human eye sees color of visible light in mostly three bands (red, green, and blue), spectral imaging divides the spectrum into many more bands. This technique of dividing images into bands can be extended beyond the visible. In hyperspectral imaging, the recorded spectra have fine wavelength resolution and cover a wide range of wavelengths.
+Hyperspectral sensors and processing systems are used for applications in astronomy, agriculture, biomedical imaging, geosciences, physics, and surveillance.
+Certain objects leave unique 'fingerprints' in the electromagnetic spectrum. Known as spectral signatures, these 'fingerprints' enable identification of the materials that make up a scanned object. 
+
+
+>>>>>>> 73333e1db302461e5d1d024770a60120a9747752
+Target users?
+The mineral mining companies
+Oil mining companies
+Government
+
+Similar products and competition?
+There are no simillar product at the moment since HSI is a relatively new technique.
+The alternatives are the traditional geological and geochemical processes which are risky and costly(Since expedtition may fail). Expert miner reduces the risk involved in expedition.
+
+Technologies and resources?
+Hyper spectral image data of Sri Lanka from Nasa Sattelites (avaliable for free)
+Hyper spectral spectrums of minerals from universities (avaliable for free)
+Numerical computing packages- MATLAB, Python (Numpy, Scipy, Matplotlib)
+University of Peradeniya servers (http://www.tesla.ce.pdn.ac.lk/)
+
+Revenue Model?
+Selling the software to mining corporations.
+Consultation services for mining corporations.
+
+Acknowledgements:
+
+Research group of Department of Electrical and Electronic Engineering:
+Sajani Pallegodavithana
+Ruwanthi
+Shane orloff
+Dr. Vijitha Herath
+Dr. Roshan Godaliyadda
+Dr. Parakrama Ekanayeka
+Previous Hackathon team:
+Pankayaraj Pathmanathan
+Gayan Thejawansha
